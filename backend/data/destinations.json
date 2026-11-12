@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1",
+    "name": "Cox's Bazar",
+    "country": "Bangladesh",
+    "subtitle": "Sea and sunsets",
+    "description": "Enjoy a long sandy beach, sea views, and beautiful sunsets. Stroll along the world's longest natural sea beach and experience local coastal hospitality.",
+    "icon": "beach_access",
+    "isPopular": true,
+    "createdAt": "2026-10-16T12:00:00.000Z",
+    "updatedAt": "2026-10-16T12:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "name": "Sajek Valley",
+    "country": "Bangladesh",
+    "subtitle": "Hills and clouds",
+    "description": "Explore green hills, cloud-filled valleys, and scenic viewpoints. Nestled among the hill tracts, enjoy picturesque sunrises with clouds below your feet.",
+    "icon": "landscape",
+    "isPopular": true,
+    "createdAt": "2026-10-16T12:00:00.000Z",
+    "updatedAt": "2026-10-16T12:00:00.000Z"
+  },
+  {
+    "id": "3",
+    "name": "Sundarbans",
+    "country": "Bangladesh",
+    "subtitle": "Mangrove forest",
+    "description": "Discover the famous mangrove forest and its rich natural environment. Home of the majestic Royal Bengal Tiger, spotted deer, and scenic waterways.",
+    "icon": "forest",
+    "isPopular": false,
+    "createdAt": "2026-10-16T12:00:00.000Z",
+    "updatedAt": "2026-10-16T12:00:00.000Z"
+  },
+  {
+    "id": "4",
+    "name": "Sreemangal",
+    "country": "Bangladesh",
+    "subtitle": "Tea capital",
+    "description": "Wander through rolling green tea gardens, Lawachara National Park, and taste the world-famous seven-layer tea in the serene countryside.",
+    "icon": "local_florist",
+    "isPopular": true,
+    "createdAt": "2026-10-16T12:00:00.000Z",
+    "updatedAt": "2026-10-16T12:00:00.000Z"
+  },
+  {
+    "id": "5",
+    "name": "Saint Martin's Island",
+    "country": "Bangladesh",
+    "subtitle": "Coral reef & blue water",
+    "description": "Explore Bangladesh's only coral island, with pristine turquoise water, coconut groves, and calm island breezes.",
+    "icon": "sailing",
+    "isPopular": false,
+    "createdAt": "2026-10-16T12:00:00.000Z",
+    "updatedAt": "2026-10-16T12:00:00.000Z"
+  }
+]

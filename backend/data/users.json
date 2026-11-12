@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1001",
+    "name": "TravelMate Traveler",
+    "email": "demo@travelmate.com",
+    "passwordHash": "$2a$10$brnNJmr.lr5ebA3L5RZNTOOtnOO5W6SO07TuPf5h34uwrFY5QkP6C",
+    "role": "traveler",
+    "createdAt": "2026-10-16T10:00:00.000Z",
+    "updatedAt": "2026-10-16T10:00:00.000Z"
+  },
+  {
+    "name": "Alice Explorer Updated",
+    "email": "traveler_1794206350544@test.com",
+    "passwordHash": "$2a$10$PrfXshG9EygulxL075EhAe8qcDqAC7hoDI85quYu7QIYKOcWRJrqu",
+    "role": "traveler",
+    "id": "1794206350690",
+    "createdAt": "2026-11-09T06:39:10.690Z",
+    "updatedAt": "2026-11-09T06:39:10.969Z"
+  },
+  {
+    "name": "Alice Explorer Updated",
+    "email": "traveler_1794207156917@test.com",
+    "passwordHash": "$2a$10$LCD28mcx7Ygkyk/vHpNBZenudihvQbERzN7QC61n0jUWqyqOz1g2i",
+    "role": "traveler",
+    "id": "1794207157067",
+    "createdAt": "2026-11-09T06:52:37.067Z",
+    "updatedAt": "2026-11-09T06:52:37.341Z"
+  },
+  {
+    "name": "kutta mijan",
+    "email": "mijan@gmail.com",
+    "passwordHash": "$2a$10$kmFkBCRL2Ei7/ilEPPTVjOoh2UAHDGpLxsWS5kox28GC0QzrMqHca",
+    "role": "traveler",
+    "id": "1794241011051",
+    "createdAt": "2026-11-09T16:16:51.051Z",
+    "updatedAt": "2026-11-09T16:16:51.051Z"
+  },
+  {
+    "name": "mijan",
+    "email": "mijan123@gmail.com",
+    "passwordHash": "$2a$10$Xt3cKty8kLa7Qo7q8emJTulCTZSv5reP0LOrwBbkI0l7yPIhmfUxG",
+    "role": "traveler",
+    "id": "1794399413038",
+    "createdAt": "2026-11-11T12:16:53.040Z",
+    "updatedAt": "2026-11-11T12:16:53.040Z"
+  },
+  {
+    "name": "mijan",
+    "email": "mdmijanmir62@gmail.com",
+    "passwordHash": "$2a$10$V4uCe5Erjf7YrsIG08Om..NkwQKVkIyBl96K7K1LUuQzguPkp.VY6",
+    "role": "traveler",
+    "id": "1794503918111",
+    "createdAt": "2026-11-12T17:18:38.113Z",
+    "updatedAt": "2026-11-12T17:18:38.113Z"
+  }
+]
